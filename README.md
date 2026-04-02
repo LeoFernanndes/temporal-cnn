@@ -1,6 +1,9 @@
 # TEMPORAL CONVOLUTIONAL NEURAL NETWORK
 ![DED-PTA melt pool image](docs-assets/ded-pta-melt-pool.png)
 
+## Dependencies
+Python 3.12.8
+
 ## Datasets
 ### Raw Data
 Unedited videos presenting the depoistion of 9 DED-PTA experiments following the taguchi DOE and a reference video to ease camera positioning setup
