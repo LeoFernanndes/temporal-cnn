@@ -20,4 +20,14 @@ L7   | 120  | 100  | 10
 L8   | 160  | 100  | 15
 L9   | 200  | 100  | 20
 
-Source: [pta_taguchi_raw_videos.zip](https://leofernanndes-datasets.s3.us-east-1.amazonaws.com/ded-pta/20251128/pta_taguchi_raw_videos.zip)
+Source: [pta_taguchi_raw_videos.zip](https://leofernanndes-datasets.s3.us-east-1.amazonaws.com/ded-pta/20251128/pta_taguchi_raw_videos.zip) ~ 264 MB
+
+### 400x400 Pixels Cropped Images
+
+Processed images extracted from deposition videos. 
+
+<img src="docs-assets/cropped-ded-pta-melt-pool.png" width="200" height="200" alt="cropped-ded-pta-melt-pool">
+
+The original videos were converted to .png images and cropped as 400x400 pixels images centered on the melt pool region.
+
+Source: [experimentos_taguchi_400p_cropped_images.zip](https://leofernanndes-datasets.s3.us-east-1.amazonaws.com/ded-pta/20251128/experimentos_taguchi_400p_cropped_images.zip) ~ 2.3 GB
